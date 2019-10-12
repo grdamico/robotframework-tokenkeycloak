@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: robotframework-tokenkeycloak
+Version: 0.0.2
+Summary: A Robot Framework library for manage keycloak token
+Home-page: UNKNOWN
+Author: Grazia D'Amico
+Author-email: graziagdamico@gmail.com
+License: MIT
+Description: # Robotframework-tokenkeycloak
+        A Robotframework library to manage the Keycloak Token 
+        [Documentation](http://graziadamico.altervista.org/robotframework/Tokenkeycloak.html)
+Keywords: robotframework library token keycloak
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
